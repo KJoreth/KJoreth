@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A novice software developer</h3>
 
-- 🔭 Currently taking part in **C# Codecool Akademy**
+- 🔭 Currently taking part in **C# Codecool Academy**
 
 - 🌱 Learning mostly **C#, ASP.Net Core, Bootstrap, JavaScript**
 
