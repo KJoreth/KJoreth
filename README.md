@@ -22,16 +22,18 @@
 <h2 align="center">Github stats</h2>
 
 <p align="center">
-
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kjoreth&show_icons=true&theme=radical" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjoreth&theme=radical" />
 </a>
+</p>
 
- 
- </p>
+<p align="center">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kjoreth&theme=radical" />
+</p>
+
 
 
 
